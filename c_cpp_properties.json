@@ -4,6 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
+                "/opt/android/ndk/21/sysroot/usr/include",
                 "/opt/aqnote/ffmpeg/include",
                 "/opt/aqnote/opencv/include",
                 "/usr/include",
