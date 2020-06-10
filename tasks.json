@@ -10,7 +10,6 @@
             "options": {
                 "cwd": "xxx",
                 "env": {
-                    "DEBUG": 1
                 },
                 "shell": {}
             },
