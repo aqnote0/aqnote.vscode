@@ -4,10 +4,15 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
+                "/opt/aqnote/libsdl2/include",
+                "/opt/aqnote/curl/include",
+                "/opt/aqnote/ffmpeg/include",
+                "/opt/aqnote/opencv/include",
+                "/opt/aqnote/imagemagick/include",
                 "/usr/include",
                 "/usr/include/x86_64-linux-gnu/",
                 "/usr/include/glib-2.0",
-                "/usr/lib/x86_64-linux-gnu/glib-2.0/include"
+                "/usr/lib/x86_64-linux-gnu/glib-2.0/include",
             ],
             "defines": [],
             "compilerPath": "/usr/bin/x86_64-linux-gnu-gcc",

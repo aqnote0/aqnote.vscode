@@ -4,10 +4,10 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/usr/include",
-                "/usr/include/x86_64-linux-gnu/",
-                "/usr/include/glib-2.0",
-                "/usr/lib/x86_64-linux-gnu/glib-2.0/include"
+                "/home/aqnote/org.kernel/linux-stable/include",
+                "/home/aqnote/org.kernel/linux-stable/arch/x86/include",
+                "/home/aqnote/org.kernel/linux-stable/build/include",
+                "/home/aqnote/org.kernel/linux-stable/build/arch/x86/include/generated"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/x86_64-linux-gnu-gcc",
