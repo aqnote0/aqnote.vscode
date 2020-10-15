@@ -5,15 +5,18 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/usr/include",
-                "/usr/include/x86_64-linux-gnu/",
+                "/usr/include/x86_64-linux-gnu",
+                "/usr/x86_64-linux-gnu/include",
+                "/usr/aarch64-linux-gnu/include",
+                "/usr/riscv64-linux-gnu/include",
                 "/usr/include/glib-2.0",
                 "/usr/lib/x86_64-linux-gnu/glib-2.0/include"
             ],
             "defines": [],
-            "compilerPath": "/usr/bin/x86_64-linux-gnu-gcc",
-            "cStandard": "c89",
+            "compilerPath": "/opt/aqnote/llvm/bin/clang",
+            "cStandard": "c99",
             "cppStandard": "c++11",
-            "intelliSenseMode": "gcc-x64"
+            "intelliSenseMode": "clang-x64"
         }
     ],
     "version": 4

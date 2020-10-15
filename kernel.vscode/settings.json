@@ -1,0 +1,27 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "files.associations": {
+        "*.s": "asm",
+        "*.asm": "asm",
+        "*.gas": "asm",
+        "*.objdump": "asm",
+        "*.disasm": "asm",
+        "*.h": "c",
+        "*.c": "c",
+        "*.em": "c",
+        "*.makefile": "makefile",
+        "*.mak": "makefile",
+        "*.mk": "makefile",
+        "Makefile": "makefile",
+        "Makeconfig": "makefile",
+        "CMakeLists.txt": "cmake",
+        "*.cmake": "cmake",
+        "*.cmake.in": "cmake",
+        "*.sc": "shellscript",
+        "*.clang-format": "yaml",
+        "*.geojson": "json",
+        "README": "markdown"
+    },
+    "restructuredtext.confPath": "",
+    "git.ignoreLimitWarning": true
+}

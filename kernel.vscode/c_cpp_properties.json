@@ -6,14 +6,14 @@
                 "${workspaceFolder}/**",
                 "/home/aqnote/org.kernel/linux-stable/include",
                 "/home/aqnote/org.kernel/linux-stable/arch/x86/include",
-                "/home/aqnote/org.kernel/linux-stable/build/include",
-                "/home/aqnote/org.kernel/linux-stable/build/arch/x86/include/generated"
+                "/home/aqnote/org.kernel/build/usr/include",
+                "/home/aqnote/org.kernel/build/arch/x86/include/generated"
             ],
             "defines": [],
-            "compilerPath": "/usr/bin/x86_64-linux-gnu-gcc",
-            "cStandard": "c89",
+            "compilerPath": "/opt/aqnote/llvm/bin/clang",
+            "cStandard": "c99",
             "cppStandard": "c++11",
-            "intelliSenseMode": "gcc-x64"
+            "intelliSenseMode": "clang-x64"
         }
     ],
     "version": 4

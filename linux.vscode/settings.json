@@ -1,0 +1,16 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "files.associations": {
+        "*.gas": "asm",
+        "Makefile": "makefile",
+        "*.makefile": "makefile",
+        "*.mak": "makefile",
+        "*.mk": "makefile",
+        "Makeconfig": "makefile",
+        "CMakeLists.txt": "cmake",
+        "*.cmake": "cmake",
+        "*.geojson": "json",
+        "*.clang-format": "yaml"
+    },
+    "restructuredtext.confPath": ""
+}
