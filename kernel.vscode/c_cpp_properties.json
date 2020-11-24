@@ -4,8 +4,8 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/home/aqnote/org.kernel/linux-stable/include",
-                "/home/aqnote/org.kernel/linux-stable/arch/x86/include",
+                "/home/aqnote/org.kernel/stable/include",
+                "/home/aqnote/org.kernel/stable/arch/x86/include",
                 "/home/aqnote/org.kernel/build/include",
                 "/home/aqnote/org.kernel/build/usr/include",
                 "/home/aqnote/org.kernel/build/arch/x86/include/generated"
